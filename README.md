@@ -1,9 +1,6 @@
-# Submission for ECC 2021 Hackathon
-
 ## HealthX - The All-in-One Health App
 
-This app is a submission to the Final Round of ECC 2021 Hackathon.
-Developed using Python and Tkinter Module
+This app is developed using Python and Tkinter Module
 
 ## Steps to Run
 
